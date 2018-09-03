@@ -2,6 +2,7 @@ pragma solidity ^0.4.11;
 
 import "./kittyBase.sol";
 import "./erc721.sol";
+import "./erc721Metadata.sol";
 
 /// @title The facet of the CryptoKitties core contract that manages ownership, ERC-721 (draft) compliant.
 /// @author Axiom Zen (https://www.axiomzen.co)
