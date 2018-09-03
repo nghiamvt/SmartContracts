@@ -7,8 +7,12 @@ a basic game which was designed to learn how to write smart contracts in Solidit
     <img src="CryptoZombies/demo.jpg" alt="CryptoZombies" />
 </p>
 
-### 1. Crypto Kitties
+### 2. Crypto Kitties
 CryptoKitties has done a great job of demonstrating what blockchains can be used for beyond just simple financial transactions 
 <p align="center">
     <img src="CryptoKitties/demo.jpg" alt="CryptoKitties" />
 </p>
+
+
+### 3. Betting Handshake
+In progress...
